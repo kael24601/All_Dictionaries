@@ -243,6 +243,8 @@
 
 ## 其他英语类
 - [BabelNet](http://babelnet.org/)
+- [wikidiff](https://wikidiff.com/)
+- [voicetube](https://www.voicetube.com/)
 - [Historical Thesaurus of English](http://historicalthesaurus.arts.gla.ac.uk/)
 - [Chambers 21st Century Dictionary](http://chambers.co.uk/search/?query=welcome&title=21st)
 - [Australian National Dictionary](http://australiannationaldictionary.com.au/)
@@ -382,6 +384,7 @@
 ### 英语写作、课程学习
 - [BBC Learning English](http://www.bbc.co.uk/learningenglish/)
 - [Associated Press Stylebook](https://www.apstylebook.com/)
+- [Reading skills for academic study](http://www.uefap.com/reading/readfram.htm)
 - [Purdue Online Writing Lab (OWL)](https://owl.english.purdue.edu/owl/)
 - [grammarly](https://www.grammarly.com/)
 - [TED:Ideas worth spreading](https://www.ted.com/)
@@ -451,6 +454,7 @@
 - [ピクシブ百科事典](https://dic.pixiv.net/)
 - [日本の伝統文化・芸能事典](http://iroha-japan.net/)
 - [ニコニコ大百科](http://dic.nicovideo.jp/)
+- [英語の違いをイラストで伝えるブログ](https://www.eigochigai.com/)
 - [辞書辞典無料検索JLogos](http://www.jlogos.com/)
 - [和独辞典](https://www.wadoku.de/)
 - [Yakuru和露・露和オンライン辞書](https://yakuru.net/)
