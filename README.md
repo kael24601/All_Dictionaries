@@ -489,6 +489,8 @@
 - [連想類語辞典](https://renso-ruigo.com/)
 - [当字語典](http://f-makuramoto.com/43-syakaika/yomikaki.html)
 - [通信用語の基礎知識](https://www.wdic.org/)
+- [四字熟語 ことわざ](http://www.kotoba-library.com/)
+- [辞书](https://nekodict.com/?utm_source=zhihu&utm_campaign=howard)
 - [漢字データベースプロジェクト](http://kanji-database.sourceforge.net/index.html)
 - [ことわざの参考書](http://tantaka.com/kotowaza/)
 - [日本語辞典・漢字字典・ことわざ辞典・四字熟語辞典](http://www.nihonjiten.com/)
@@ -499,6 +501,7 @@
 - [ふりがな文庫](https://furigana.info/)
 - [日本姓氏語源辞典](https://name-power.net/)
 - [nekodict](https://nekodict.com/)
+- [Yahoo知恵袋](https://chiebukuro.yahoo.co.jp/)
 
 ## Deutsch
 - [德语助手](https://www.godic.net/)
