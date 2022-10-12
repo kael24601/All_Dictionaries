@@ -93,6 +93,8 @@
 - [ODE::Oxford Dictionary of English 新牛津英语词典](https://en.oxforddictionaries.com/definition/welcome)
 - [NOAD::New Oxford American Dictionary](https://en.oxforddictionaries.com/definition/us/welcome)
 - [Merriam-Webster SINCE 1828](https://www.merriam-webster.com/)
+- [snappywords](https://www.snappywords.com/)
+- [ikonet](http://www.ikonet.com/en/visualdictionary/)
 - [MWCD::Merriam-Webster’s Collegiate Dictionary 韦氏大学英语词典](https://www.merriam-webster.com/dictionary/welcome)
 - [MWALED::Merriam-Webster Advanced Learner’s English Dictionary 韦氏高阶英语词典](http://www.learnersdictionary.com/)
 - [Merriam-Webster Visual Dictionary Online](http://visual.merriam-webster.com/)
