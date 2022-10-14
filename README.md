@@ -425,7 +425,7 @@
     - [プログレッシブ和英中辞典(第３版)](http://dictionary.infoseek.ne.jp/dictionary/pje3/)
     - [世界大百科事典 第２版](http://dictionary.infoseek.ne.jp/dictionary/sekaidaihyakka/)
     - [日本大百科全書(ニッポニカ)](http://dictionary.infoseek.ne.jp/dictionary/nipponica/)
-- [JapanKnowledge::日本大百科全書](http://japanknowledge.com/)
+- [JapanKnowledge::日本大百科全書](http://japanknowledge.com/)【需要付费】
     - [『角川古語大辞典』（全5巻）](http://japanknowledge.com/contents/kadokawakogo/index.html)
 - [広辞苑無料検索](https://sakura-paris.org/dict/)
 - [BitEx中国語学習](https://bitex-cn.com/)
