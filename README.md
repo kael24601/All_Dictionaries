@@ -407,7 +407,7 @@
     - [『デイリーコンサイス中日辞典（第2版）』❗已下线](https://dictionary.goo.ne.jp/cj/)
     - [『デイリーコンサイス日中辞典』❗已下线](https://dictionary.goo.ne.jp/jc/)
 - [コトバンク](https://kotobank.jp/)
-- [三省堂 Web Dictionary](https://www.sanseido.biz/)
+- [三省堂 Web Dictionary](https://www.sanseido.biz/)【已经失效】
 - [研究社 Online Dictionary ](http://kod.kenkyusha.co.jp/service/faq/faq10.jsp)
 - [BIGLOBE辞書](https://search.biglobe.ne.jp/dic/)
 - [Weblio辞書](https://www.weblio.jp/)
